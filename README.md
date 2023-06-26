@@ -9,33 +9,30 @@
 
 ## 프로젝트 소개
 
-<p align="justify">
+<p align="center">
 <img width="60%" src="https://github.com/n0hack/readme-template/assets/120168006/c18589f6-9fc3-492d-9def-0c929dbbbf79"/>
 </p>
 
 <p align="center">
-GIF Images
+
 </p>
 
 <br>
 
 ## 기술 스택
-
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
-
 <br>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
-## 구현 기능
 
-### 기능 1
-
-### 기능 2
-
-### 기능 3
-
-### 기능 4
+## [구현 기능](https://www.canva.com/design/DAFjtLj1x0U/KQ-m-gZbsiOe4TyPwI4Lbg/view?utm_content=DAFjtLj1x0U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <br>
 

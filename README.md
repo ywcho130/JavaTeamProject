@@ -32,27 +32,6 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
 
-## [구현 기능](https://www.canva.com/design/DAFjtLj1x0U/KQ-m-gZbsiOe4TyPwI4Lbg/view?utm_content=DAFjtLj1x0U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-<br>
-
-## 배운 점 & 아쉬운 점
-
-<p align="justify">
-
-</p>
-
-<br>
-
-## 라이센스
-
-MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
-
-<!-- Stack Icon Refernces -->
-
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
+## [포트폴리오](https://www.canva.com/design/DAFjtLj1x0U/KQ-m-gZbsiOe4TyPwI4Lbg/view?utm_content=DAFjtLj1x0U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 

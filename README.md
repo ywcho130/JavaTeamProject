@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  ![image](https://github.com/ywcho130/JavaTeamProject/assets/120168006/e4a0c0e3-7f98-4519-960e-7d1cc6129ba0)"
+  <img width="80%" src="https://github.com/n0hack/readme-template/assets/120168006/c8c4d5d0-e19f-42a6-ae54-607e05eb0735"/>
   <br>
 </p>
 

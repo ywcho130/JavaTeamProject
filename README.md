@@ -9,13 +9,23 @@
 
 ## Intro
 
-<p align="center">
-<img width="60%" src="https://github.com/n0hack/readme-template/assets/120168006/c18589f6-9fc3-492d-9def-0c929dbbbf79"/>
-</p>
+Purpose
+<br>
+=> 수강 신청,교재 판매 수익 사이트
+<br>
+=> 배우고 싶은 강의에 대한 쉬운 접근성
+<br>
+=> 멘토링을 통한 질문 답변 시스템
+<br>
 
-<p align="center">
+개발 기간 : 2023.03 ~ 2023.04 (2주)
+<br>
+개발 인원 : 7명
+<br>
+담당 역할 : 멘토링 게시판, 대화방 목록 및 대화방
+<br>
+플랫폼 : WEB
 
-</p>
 
 <br>
 

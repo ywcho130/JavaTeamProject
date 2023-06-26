@@ -1,4 +1,4 @@
-# 프로젝트 이름
+# Project
 
 <p align="center">
   <br>
@@ -7,7 +7,7 @@
 </p>
 
 
-## 프로젝트 소개
+## Intro
 
 <p align="center">
 <img width="60%" src="https://github.com/n0hack/readme-template/assets/120168006/c18589f6-9fc3-492d-9def-0c929dbbbf79"/>
@@ -19,7 +19,7 @@
 
 <br>
 
-## 기술 스택
+## Skills
 <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -32,6 +32,6 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
 
-## [포트폴리오](https://www.canva.com/design/DAFjtLj1x0U/KQ-m-gZbsiOe4TyPwI4Lbg/view?utm_content=DAFjtLj1x0U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+## [Detail](https://www.canva.com/design/DAFjtLj1x0U/KQ-m-gZbsiOe4TyPwI4Lbg/view?utm_content=DAFjtLj1x0U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 

@@ -6,12 +6,11 @@
   <br>
 </p>
 
-목차
 
 ## 프로젝트 소개
 
 <p align="justify">
-프로젝트 개요/동기
+<img width="80%" src="https://github.com/n0hack/readme-template/assets/120168006/c18589f6-9fc3-492d-9def-0c929dbbbf79"/>
 </p>
 
 <p align="center">
